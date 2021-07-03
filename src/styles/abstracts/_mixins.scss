@@ -1,0 +1,9 @@
+@mixin flex {
+    display: flex;
+}
+@mixin wrapin($style1) {
+    flex-wrap: $style1;
+}
+@mixin direction($style) {
+    flex-direction: $style;
+}

@@ -1,0 +1,78 @@
+//sapcing
+$padding: 2%;
+$margin: 2%;
+$font-unit: 1rem;
+//background colors
+$primary-background-color: #ffffff;
+$secondary-background-color: #ecedf2;
+$background-color-input: #fdedf8;
+$background-color-modal: #00000080;
+$passed-background-color: #e8cade;
+$pending-background-color: #fff0bb;
+$denied-background-color: #d6f5ff;
+//colors
+$border-color-input: #2196f3;
+$primary-color: #9c0f6b;
+$secondary-color: #0e6b8c;
+$pending-color: #a38827;
+$checkmark-color: #ffffff;
+$border-color: #888;
+$status-pending-color: #c9bf39;
+$alert-color: #ff0000;
+$success-color: #02f81b;
+$icon-primary-background-color: #febde85b;
+$icon-secondary-background-color: #9bdef686;
+$font-color-white: white;
+$font-color-gray: gray;
+$link-color: #296de9;
+//margins
+$margin-xxxxs: calc(0.125 * 2%);
+$margin-xxxs: calc(0.25 * 2%);
+$margin-xxs: calc(0.375 * 2%);
+$margin-xs: calc(0.5 * 2%);
+$margin-sm: calc(0.75 * 2%);
+$margin-sm: calc(0.75 * 2%);
+$margin-md: calc(1.2 * 2%);
+$margin-lg: calc(2 * 2%);
+$margin-xl: calc(3.25 * 2%);
+$margin-xxl: calc(5.25 * 2%);
+$margin-xxxl: calc(8.5 * 2%);
+$margin-xxxxl: calc(13.75 * 2%);
+
+/* fonts */
+
+$font-xxxxs: calc(0.125 * 1rem);
+$font-xxxs: calc(0.25 * 1rem);
+$font-xxs: calc(0.375 * 1rem);
+$font-xs: calc(0.5 * 1rem);
+$font-sm: calc(0.75 * 1rem);
+$font-md: calc(1.2 * 1rem);
+$font-lg: calc(1.5 * 1rem);
+$font-xlg: calc(2 * 1rem);
+$font-xxl: calc(3.25 * 1rem);
+$font-xxxl: calc(5.25 * 1rem);
+$font-xxxxl: calc(8.5 * 1rem);
+$font-xxxxxl: calc(13.75 * 1rem);
+
+/* padding */
+
+$padding-xxxxs: calc(0.125 * 2%);
+$padding-xxxs: calc(0.25 * 2%);
+$padding-xxs: calc(0.375 * 2%);
+$padding-xs: calc(0.5 * 2%);
+$padding-sm: calc(0.75 * 2%);
+$padding-md: calc(1.1 * 2%);
+$padding-lg: calc(2 * 2%);
+$padding-xl: calc(3.25 * 2%);
+$padding-xxl: calc(5.25 * 2%);
+$padding-xxxl: calc(8.5 * 2%);
+$padding-xxxxl: calc(13.75 * 2%);
+
+/* shadow */
+
+$shadow: -0.05rem -0.05rem 5px 0.1px #00000036;
+
+/* border radius */
+
+$border-radius: 5px;
+$radius-circle: 50%;

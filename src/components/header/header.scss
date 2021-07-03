@@ -1,0 +1,13 @@
+.header {
+    background-color: $primary-color;
+    padding: $padding-xxxs $padding-md;
+    width: 100%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    .header__logo {
+        color: $font-color-white;
+        font: italic 600 $font-md Poppins;
+    }
+}
